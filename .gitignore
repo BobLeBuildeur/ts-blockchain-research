@@ -1,0 +1,10 @@
+# node
+/node_modules
+
+# documentation
+/docs
+
+# testing
+/reports
+/.nyc_output
+.stryker-tmp
